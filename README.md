@@ -15,7 +15,6 @@
 <!-- Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Doug+Irwin;+Welcome+to+My+Profile!;Current+online+programming+student;Always+learning+new+things+;Cybersecurity+enthusiast+)](https://git.io/typing-svg)
 
-
 <!-- Future spot for kaggle or HTB achievements -->
 <!-- ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 
@@ -35,14 +34,31 @@ Property | Data
 
 <!--   GitHub Stats Graph -->
 ### 📈 GitHub Activity Graph
-![Doug's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=irwindoug&theme=react-dark)
-
+<table>
 <!-- GitHub Stats Charts -->
- . | .
---- | ---
-![irwindoug's github stats](https://github-readme-stats.vercel.app/api?username=irwindoug&theme=github_dark&include_all_commits=true) | ![Doug's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irwindoug&theme=github_dark&layout=compact)
+    <tr>
+        <td colspan="2">
+
+![Doug's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=irwindoug&theme=react-dark)
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+
+![irwindoug's github stats](https://github-readme-stats.vercel.app/api?username=irwindoug&theme=github_dark&include_all_commits=true)
+        </td>
+        <td>
+
+![Doug's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=irwindoug&theme=github_dark&layout=compact)
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=irwindoug&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+        </td>
+    </tr>
+</table>
 
 **📫 How to Reach me:**
 <p align="left">
