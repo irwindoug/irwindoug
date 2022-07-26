@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: irwindoug/badge-readme@main
+        uses: irwindoug/irwindoug@main
         with:       
           CREDLY_USER: ${{ secrets.username_credly }}
