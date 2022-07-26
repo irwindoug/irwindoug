@@ -16,12 +16,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Doug+Irwin;+Welcome+to+My+Profile!;Current+online+programming+student;Always+learning+new+things+;Cybersecurity+enthusiast+)](https://git.io/typing-svg)
 
 <!-- Future spot for kaggle or HTB achievements -->
-<!-- ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+### My badge achievements:
 
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light) -->
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!-- Knowledge Table -->
 Property | Data
