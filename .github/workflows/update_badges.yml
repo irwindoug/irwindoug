@@ -12,6 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: irwindoug/irwindoug@main
+        uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: ${{ secrets.username_credly }}
+          COMMIT_MESSAGE: "Updating my badges"
