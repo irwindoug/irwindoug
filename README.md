@@ -19,6 +19,7 @@
 ### My badge achievements:
 
 <!--START_SECTION:badges-->
+[![Google/CompTIA dual credential](https://images.credly.com/size/110x110/images/9d6a367b-6e05-4c70-99d6-26046056695f/GoogleCompTIA.png)](http://www.credly.com/badges/ae2615e7-4b2a-4ba1-ab96-c57ea9e2743c "Google/CompTIA dual credential")
 [![CompTIA A+ ce Certification](https://images.credly.com/size/110x110/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png)](http://www.credly.com/badges/18a97276-6445-4066-a473-46e3a5533c26 "CompTIA A+ ce Certification")
 [![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/72f3ef85-95f6-407f-9aba-98c8015530f4 "Google IT Support Certificate")
 <!--END_SECTION:badges-->
