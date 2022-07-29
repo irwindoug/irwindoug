@@ -24,6 +24,10 @@
 [![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/72f3ef85-95f6-407f-9aba-98c8015530f4 "Google IT Support Certificate")
 <!--END_SECTION:badges-->
 
+
+### TryHackMe Progress:
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/hackitpro.png)](https://tryhackme.com/p/hackitpro "TryHackMe")
+
 <!-- Knowledge Table -->
 Property | Data
 --- | ---
